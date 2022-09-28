@@ -1,0 +1,19 @@
+.bg {
+	background-color: rgba(76,11,206,0.15);
+}
+.bg-height{
+	padding: 20px 100px;
+	color: rgb(0, 0, 0) !important;
+	font-size: 50px;
+	margin-top: 50px;
+}
+
+p{
+	color: #000;
+	font-size: 30px;
+}
+div{
+	width: 400px;
+	height: 100px;
+	margin-bottom: 200px;
+}
